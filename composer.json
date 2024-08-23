@@ -1,6 +1,6 @@
 {
     "name": "outward_tech01/eimaung",
-    "description": "A simple user authentication system.",
+    "description": "A simple user authentication sysetem.",
     "type": "project",
     "autoload": {
         "psr-4": {
